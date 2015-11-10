@@ -4,7 +4,7 @@
 :wqactId>AgilemapleTraining</artifactId>
 	<packaging>war</packaging>
 	
-	<name>AgilemapleTraining Maven Webapp</name>
+	>AgilemapleTraining Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
