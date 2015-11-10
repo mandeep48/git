@@ -8,7 +8,7 @@
 
 public aspect LifeSupport  {
 	
-	//To maintain the status of Crew Member
+	
 	private String Crew.status = "ALIVE";
 	
 	//To maintain the count of shut down method
