@@ -1,7 +1,7 @@
 /**
  * Authorization <br>
  *  
- * @author Mandeep Singh
+ * Mandeep Singh
  * @Student Id 27849559
  */
 
